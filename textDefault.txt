@@ -1,0 +1,1 @@
+In Haskell puteti scrie programe sigure functiile din limbajul functional nefiind afectate de efecte externe cum ar fi schimbari de variabile globale. De asemenea se pot modela procese care se combina intre ele deoarece Haskell are la dispozitie compunerea de functii 
